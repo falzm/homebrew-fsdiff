@@ -2,9 +2,9 @@
 class Fsdiff < Formula
   desc "Filesystem changes tracking tool"
   homepage "https://github.com/falzm/fsdiff"
-  url "https://github.com/falzm/fsdiff/releases/download/v0.2.0/fsdiff_0.2.0-darwin-amd64.tar.gz"
-  version "0.2.0"
-  sha256 "0c80c58e9960d78d2015948bbae450a0f906423882ecc49e6b03a4b9a474f249"
+  url "https://github.com/falzm/fsdiff/releases/download/v0.3.0/fsdiff_0.3.0-darwin-amd64.tar.gz"
+  version "0.3.0"
+  sha256 "c30e77781c5f516a24806903efbf482368fdb8e595a83405eb05128addebf5b7"
 
   def install
     bin.install "fsdiff"
